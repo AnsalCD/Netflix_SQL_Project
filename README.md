@@ -8,7 +8,7 @@ This project is designed to demonstrate my expertise in SQL by analyzing Netflix
 
 ✅ Analytical Thinking – Identifying key trends in content production, actor appearances, and content categorization to provide strategic insights.
 
-✅ Advanced SQL Functions – Leveraging window functions (RANK()), CTEs (WITH), date conversions (TO_DATE()), and conditional logic (CASE) to enhance data analysis.
+✅ Advanced SQL Functions – Leveraging window functions Rank() function ,CTEs (WITH), date conversions (TO_DATE()), and conditional logic (CASE) to enhance data analysis.
 
 ✅ Business-Relevant Insights – Extracting valuable information on content distribution, ratings, and market trends, aligning data findings with business decision-making.
 
